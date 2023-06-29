@@ -2,6 +2,7 @@
 
 ## írj egy Person osztályt
 - fieldek: name, age, gender
+- egy konstruktor ami beállítja az összes fieldet
 
 ## írj egy FileReader osztályt
 - statikus metódus ami vár egy String paramétert és vissza tér egy String Listával
